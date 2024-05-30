@@ -1,0 +1,20 @@
+{
+  "name": "desafio-dia-22---black-and-white",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "express": "^4.19.2",
+    "express-handlebars": "^7.1.2",
+    "jimp": "^0.22.12",
+    "jquery": "^3.7.1",
+    "nodemon": "^3.1.2",
+    "uuid": "^9.0.1"
+  }
+}

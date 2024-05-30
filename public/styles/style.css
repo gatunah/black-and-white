@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    color: azure;
+    margin: 5%;
+}
+#div-home{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10%;
+}
+#form-home{
+    flex-direction: column;
+    text-align: start;
+}
+#btn-subir-imagen{
+    background-color: black;
+    border-color: azure;
+    border-radius: 5px;
+    color: azure;
+}
+#txt-subir-imagen{
+    width: 80vh;
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+label, #btn-subir-imagen, #txt-subir-imagen{
+    font-size: x-large;
+}
+#message{
+    color: rgba(253, 0, 0, 0.655);
+    margin-top: -2px;
+}
